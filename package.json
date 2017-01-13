@@ -1,0 +1,24 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suelton/curso_node.git"
+  },
+  "author": "Suelton A. Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suelton/curso_node/issues"
+  },
+  "homepage": "https://github.com/suelton/curso_node#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0"
+  }
+}
